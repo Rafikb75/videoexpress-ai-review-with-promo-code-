@@ -1,0 +1,5 @@
+# VideoExpress AI Promo Code - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://rafikb75.github.io/videoexpress-ai-review-with-promo-code-/sitemap.xml
